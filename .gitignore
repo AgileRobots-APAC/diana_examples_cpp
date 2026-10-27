@@ -1,0 +1,16 @@
+build/
+.vscode/
+.idea/
+*.user
+*.swp
+*.o
+*.so
+*.a
+*.dll
+*.dylib
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+
+# The official SDK is tracked as the third_party/diana_sdk_cpp Git submodule.
